@@ -7,6 +7,8 @@ Material do Minicurso GNU/Linux Básico + Shell Script apresentado na III Semana
 
 [Aula 002: Comandos Diversos](slides/minicurso_linux_aula_002_comandos.pdf)
 
+[Aula 003: Shell Script](slides/minicurso_linux_aula_003_shellscript.pdf)
+
 
 ## Materiais
 
